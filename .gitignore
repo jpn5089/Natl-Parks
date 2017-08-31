@@ -1,0 +1,14 @@
+.Ruserdata
+packrat/lib*/
+*.csv
+*.jpeg
+.Rhistory
+.Rprofile
+.Rdata
+*.Rproj
+*.opts
+*.lock
+*.Rda
+.Rproj.user/**
+packrat/
+.Rproj.user
